@@ -47,9 +47,19 @@ a {
 }
 
 .agendamento {
+    background-image: url(/img/top-view-male-self-care-setting-still-life.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; /* Ajusta a imagem para cobrir toda a seção */
+    background-position: center; /* Centraliza a imagem */
+   
     color: #ffffff;
     padding-top: 6rem;
     text-align: left;
+}
+
+#sobre-nos {
+    padding-top: 5rem;
 }
 
 .bg-custom {
@@ -95,10 +105,6 @@ h2 {
 
 .texto-menor {
     font-size: 13px;
-}
-
-.divs-facilidades {
-    width: 325px;
 }
 
 .banner-1 {
