@@ -48,6 +48,8 @@ a {
 
 .agendamento {
     color: #ffffff;
+    padding-top: 6rem;
+    text-align: left;
 }
 
 .bg-custom {
@@ -89,10 +91,6 @@ h2 {
     color: white;
     text-align: center;
     font-size: 50px;
-}
-
-.agendamento {
-    text-align: left;
 }
 
 .texto-menor {
